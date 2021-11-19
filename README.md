@@ -87,6 +87,17 @@ bunu onlemek için once şu komutları girin
 >>ls
 index.html image.html  //merge işlemimizi yapmış olduk.
 
+***Projeyi GitHub a yükleme***
+>>git remote add origin (Repostory URL)
+>>git push --set-upstream origin master
+**kullanıcı adı ve access token girilir
+
+>>git pull origin //uzak Repoda yapılan değişikliği local e cekeriz.
+
+**yerel ropoda yapılan değişiklikleri gönderme
+>>git commit -a -m "push origin deneniyor"
+>>git push origin
+
 
 
 
