@@ -98,6 +98,7 @@ index.html image.html  //merge işlemimizi yapmış olduk.
 >>git commit -a -m "push origin deneniyor"
 >>git push origin
 
+>>
 
 
 
