@@ -23,7 +23,7 @@ Git, her bir commit değişiklik noktasını veya "kaydetme
 noktasını" dikkate alır. Bir hata bulursanız veya bir 
 değişiklik yapmak istiyorsanız, projede geri dönebileceğiniz 
 bir noktadır.
-**Biz commit, her zaman bir mesaj eklemeliyiz .
+**Biz commit işleminde her zaman bir mesaj eklemeliyiz .
 
 >>git commit -m "çalişmanın 1. değişiklik noktası."
 
@@ -98,7 +98,7 @@ index.html image.html  //merge işlemimizi yapmış olduk.
 >>git commit -a -m "push origin deneniyor"
 >>git push origin
 
->>
+>>https://aliozgur.gitbooks.io/git101/   //git ile ilgili eğitim içeren side. 
 
 
 
