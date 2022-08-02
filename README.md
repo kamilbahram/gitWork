@@ -100,6 +100,18 @@ index.html image.html  //merge işlemimizi yapmış olduk.
 
 >>https://aliozgur.gitbooks.io/git101/   //git ile ilgili eğitim içeren side. 
 
+git branch silme komutları
+>>git branch -d version1.1  //kendi projemizden silmek için 
+>>git branch -dr  origin/version1.1   //remote repodan silmek için
+>>git push origin :version1.1       //Githup üzerindegi dalımızı siler
+
+GitHup üzrerinden repo çekme
+>>mkdir ProjeAdi
+>>cd proje adi
+>>git init
+>>git config --global user.name "kamilbahram"
+>>git config --global user.email "kamilbhrm@gmail.com"
+>>git clone https://github.com/kamilbahram/gitWork.git   // projenin url si
 
 
 
