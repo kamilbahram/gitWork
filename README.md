@@ -97,6 +97,7 @@ index.html image.html  //merge işlemimizi yapmış olduk.
 **yerel ropoda yapılan değişiklikleri gönderme
 >>git commit -a -m "push origin deneniyor"
 >>git push origin
+>>git push origin --force  //bu seçenek bazen push işlemi yapılamadığı zaman kullanılır.
 
 >>https://aliozgur.gitbooks.io/git101/   //git ile ilgili eğitim içeren side. 
 
